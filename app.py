@@ -1,4 +1,3 @@
-
 import random
 import streamlit as st
 
@@ -161,3 +160,4 @@ else:
     if st.button("🔄 Chơi lại", use_container_width=True):
         new_game()
         st.rerun()
+
